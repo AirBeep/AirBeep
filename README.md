@@ -28,8 +28,8 @@
 [comment]: # "####################################################################"
 
 <div class="header">
-  <h3 style="color:black;" align="center">AirBeep</h3>
+    <h3 style="color:black;" align="center">AirBeep</h3>
     <p style="color:black;">
-        AirBeep is a kind of technology community focused on mobile application development.
+        AirBeep is a technology community that develops mobile, web and artificial intelligence applications.
     </p>
 </div>
