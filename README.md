@@ -30,6 +30,6 @@
 <div class="header">
     <h3 style="color:black;" align="center">AirBeep</h3>
     <p style="color:black;">
-        AirBeep is a technology community that develops mobile, web and artificial intelligence applications.
+        <a href="https://airbeep.github.io/">AirBeep</a> is a technology community that develops mobile, web and artificial intelligence applications.
     </p>
 </div>
